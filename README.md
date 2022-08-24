@@ -1,5 +1,5 @@
 
-# Extract Book Details
+# Extract books and their details
 
 Demonstrate a script that extract books related details from website https://www.ebooks.com/ and save them in a CSV file. This script used WEB API to extract details about books from the website.
 ## Libraries
